@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./defunerefrancisc00elen_0011.png"; bbox 0 0 2471 3845; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 526 1181 1877 1275">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 526 1181 1877 1275">
+     <span class='ocr_line' id='line_1_1' title="bbox 526 1181 1877 1275; baseline 0.007 -9"><span class='ocrx_word' id='word_1_1' title='bbox 526 1181 752 1267; x_wconf 89' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 897 1181 1877 1275; x_wconf 89' lang='lat' dir='ltr'>LAUDIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 230 1347 2174 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 230 1347 2174 1534">
+     <span class='ocr_line' id='line_1_2' title="bbox 230 1347 2174 1534; baseline 0.009 -17"><span class='ocrx_word' id='word_1_3' title='bbox 230 1347 2174 1534; x_wconf 86' lang='lat' dir='ltr'>FRANCISCI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 348 1592 2052 1874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 348 1592 2052 1874">
+     <span class='ocr_line' id='line_1_3' title="bbox 599 1592 1797 1707; baseline 0.007 -9"><span class='ocrx_word' id='word_1_4' title='bbox 599 1592 1797 1707; x_wconf 84' lang='lat' dir='ltr'><strong>IMPERATORIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 348 1773 2052 1874; baseline 0.006 -17"><span class='ocrx_word' id='word_1_5' title='bbox 348 1773 542 1859; x_wconf 89' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 689 1777 1140 1874; x_wconf 77' lang='lat' dir='ltr'>EJUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1291 1780 2052 1868; x_wconf 81' lang='lat' dir='ltr'>FUNERE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 770 1941 1694 2079">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 770 1941 1694 2079">
+     <span class='ocr_line' id='line_1_5' title="bbox 770 1941 1694 2079; baseline -0.001 0"><span class='ocrx_word' id='word_1_8' title='bbox 770 1941 1694 2079; x_wconf 85' lang='lat' dir='ltr'><em>ORATIO</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
